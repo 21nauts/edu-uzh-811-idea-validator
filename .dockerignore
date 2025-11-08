@@ -1,0 +1,36 @@
+# Dependencies
+**/node_modules
+**/npm-debug.log
+
+# Next.js
+**/.next
+**/out
+**/build
+
+# Environment
+**/.env*.local
+**/.env
+
+# Git
+.git
+.gitignore
+
+# Documentation
+docs/
+
+# Testing
+**/coverage
+**/.nyc_output
+
+# Misc
+**/.DS_Store
+**/*.pem
+**/.vscode
+**/.idea
+
+# Debug
+**/*.log
+**/.npm
+
+# Vercel
+**/.vercel
